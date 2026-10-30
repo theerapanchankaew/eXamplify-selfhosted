@@ -5,6 +5,9 @@ Learning & examination platform — **Next.js 15 + PostgreSQL**, fully self-host
 
 **Deploying? → [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)** (step-by-step, Thai)
 
+> Forked from [theerapanchankaew/eXamplify](https://github.com/theerapanchankaew/eXamplify)
+> (the original Firebase version, which keeps running unchanged).
+
 ## Architecture
 
 ```

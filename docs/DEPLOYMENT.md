@@ -46,8 +46,8 @@ docker compose version            # ต้องได้ v2.x ขึ้นไ�
 ## 4. ดึงโค้ดและตั้งค่า
 
 ```bash
-git clone https://github.com/theerapanchankaew/eXamplify.git
-cd eXamplify
+git clone https://github.com/theerapanchankaew/eXamplify-selfhosted.git
+cd eXamplify-selfhosted
 cp .env.example .env
 openssl rand -hex 24              # ใช้ผลลัพธ์เป็น POSTGRES_PASSWORD
 nano .env
